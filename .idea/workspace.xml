@@ -84,7 +84,7 @@
       <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web-server/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="108">
               <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
             </state>
           </provider>
@@ -221,12 +221,12 @@
       <workItem from="1523676347662" duration="45000" />
       <workItem from="1524116529444" duration="3331000" />
       <workItem from="1524126067508" duration="191000" />
-      <workItem from="1524126285234" duration="1421000" />
+      <workItem from="1524126285234" duration="2756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28537000" />
+    <option name="totallyTimeSpent" value="29872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -592,7 +592,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web-server/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="108">
           <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
         </state>
       </provider>
