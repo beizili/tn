@@ -1,7 +1,7 @@
 const initPomelo = function () {
     let that= {};
     let serverIP = "127.0.0.1";
-    let serverPort = "3014";
+    let serverPort = 3014;
     let username = "syp";
     let rid = "1";
 
@@ -14,14 +14,16 @@ const initPomelo = function () {
                 port: port,
                 log: true
             }, function () {//pomelo.init的回调函数
+                console.log('pomelo二次初始化回调函数')
                 var route = "connector.entryHandler.enter";
                 // 客户端在查询到connector后，需要发请求给connector服务器， 第一次请求要给connector进程，
                 // 因为首次进入时需要绑定对应的uid信息
                 pomelo.request(route, {
-                    username: userName,
+                    username: username,
                     rid: rid
                 }, function (data) {//pomelo.request的回调函数，此时的data是服务器发来的
                     //通讯方法的回调函数是阻塞的，直到收到通讯消息才会继续执行，此处也体现了JavaScript的全栈特性
+                    console.log('connector的回调函数：'+data.error);
                     if (data.error) {
                         cc.log('连接connector失败');
                         return;
@@ -44,7 +46,7 @@ const initPomelo = function () {
             pomelo.request(route, {
                 uid: uid
             }, function (data) {//data是服务器发来的消息，data里带的是connector服务器的地址
-                pomelo.disconnect();
+                pomelo.disconnect();//关闭连接
                 if (data.code === 500) {
                     cc.log('连接gate错误');
                     return;
