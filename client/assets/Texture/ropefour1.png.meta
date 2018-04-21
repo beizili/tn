@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1c36cc97-029e-411d-a321-281fb371b908",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ropefour1": {
+      "ver": "1.0.3",
+      "uuid": "1d26b54c-1525-42f2-94de-58597c157aa1",
+      "rawTextureUuid": "1c36cc97-029e-411d-a321-281fb371b908",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 13,
+      "trimX": 24,
+      "trimY": 26,
+      "width": 614,
+      "height": 613,
+      "rawWidth": 661,
+      "rawHeight": 691,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
