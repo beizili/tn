@@ -51,6 +51,12 @@ handler.enter = function(msg, session, next) {
 	});
 };
 
+handler.login=function (msg,session,cb) {
+	console.log("日志：接收到的客户端消息"+JSON.stringify(msg));
+	cb(null,{user:"syp"});
+};
+
+
 /**
  * User log out handler用户注销处理程序
  *

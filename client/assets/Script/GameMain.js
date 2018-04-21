@@ -1,4 +1,3 @@
-import initPomelo from './initPomelo';
 
 cc.Class({
     extends: cc.Component,
@@ -51,6 +50,7 @@ cc.Class({
         ropeNum: 1,
         isRopeAdd: false,
         rope: null
+
     },
 
     //打开工具栏
@@ -69,25 +69,12 @@ cc.Class({
         }
     },
     onLoad() {
-        cc.log('初始化pomelo前')
-        initPomelo().connectService();
-
-
         this.ropeNum = 1;
-        // 绳子高度
-        // let rope = this.node.getChildByName("rope");
-        // rope.zIndex = -20;
-
-        // let btn = this.node.getChildByName("btn");
-        // btn.zIndex = 3000;
-        // let ropePrefab = cc.instantiate(this.ropePrefab)
-        // this.node.addChild(ropePrefab);
 
         this.startGame();
-
-
     },
-    startGame() {
+    startGame(){
+        console.log("游戏开始")
         if (this.isStartGame) return;
         this.isStartGame = true;
 

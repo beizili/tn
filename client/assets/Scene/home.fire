@@ -2051,7 +2051,7 @@
     "checkOut": {
       "__id__": 22
     },
-    "toolIsShow": false,
+    "toolIsShow": true,
     "isStartGame": false,
     "tools": null,
     "cowArray": [],
@@ -2059,7 +2059,7 @@
     "cowsCatchedPosition": [],
     "time": 0,
     "count": 0,
-    "ropeNum": 0,
+    "ropeNum": 1,
     "isRopeAdd": false,
     "rope": null
   }

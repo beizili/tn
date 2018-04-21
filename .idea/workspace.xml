@@ -2,9 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82d5dfac-e21f-421b-bf55-e8958f9735ee" name="Default" comment="调试与服务器的连接">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/initPomelo.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/initPomelo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/cow_run_01.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/cow_run_01.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/cow_run_02.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/cow_run_02.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/cow_run_03.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/cow_run_03.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope1.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope1.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope2.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope2.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.fnt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.fnt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/cow.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/cow.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/rope.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/rope.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow1.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow1.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow2.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow2.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow3.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow3.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/tools.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/tools.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Scene/home.fire" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Scene/home.fire" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Scene/home.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Scene/home.fire.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/Cow.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/Cow.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/GameMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/GameMain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/GameMain.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/GameMain.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/initPomelo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/initPomelo.js.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/emitter.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/emitter.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/protobuf.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/protobuf.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/protocol.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/protocol.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/rope.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/rope.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/tool.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/tool.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/281-150H91133590.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/281-150H91133590.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/add.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/add.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/again.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/again.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/bg_index.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/bg_index.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/button_BG.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/button_BG.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/button_off.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/button_off.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/button_on.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/button_on.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/catchedCowList.pac.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/catchedCowList.pac.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/count.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/count.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/cowlist.plist.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/cowlist.plist.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/cowlist.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/cowlist.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/jifenban.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/jifenban.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/rope - 副本.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/rope - 副本.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/rope.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/rope.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/rope2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/rope2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCount.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCount.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCow1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCow1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCow2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCow2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCow3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCow3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropetwo1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropetwo1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropetwo2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropetwo2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/time.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/time.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/图片1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/图片1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/resources/particle/yanhua_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/resources/particle/yanhua_02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/settings/builder.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/settings/builder.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/settings/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/settings/project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,64 +72,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="initPomelo.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/assets/Script/initPomelo.js">
+    <leaf>
+      <file leaf-file-name="loadingScene.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/assets/Script/loadingScene.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+            <state relative-caret-position="360">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pomelo-client.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js">
+      <file leaf-file-name="initPomelo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/assets/Script/util/initPomelo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-258">
-              <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cocos2d-js-for-preview.js" pinned="false" current-in-tab="false">
-        <entry file="http://localhost:7456/app/engine/bin/cocos2d-js-for-preview.js">
-          <provider selected="true" editor-type-id="httpFileEditor" />
-        </entry>
-      </file>
-      <file leaf-file-name="protocol.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/assets/Script/pomelo/protocol.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="entryHandler.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="client.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-server/public/js/client.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2152">
-              <caret line="163" column="17" selection-start-line="163" selection-start-column="17" selection-end-line="163" selection-end-column="17" />
+            <state relative-caret-position="180">
+              <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>queryEntry</find>
       <find>removeUser</find>
       <find>chatofpomelo</find>
+      <find>chatRemote</find>
     </findStrings>
     <replaceStrings>
       <replace>taoniu</replace>
@@ -84,7 +118,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="syp" />
       </map>
     </option>
   </component>
@@ -93,7 +127,6 @@
       <list>
         <option value="$PROJECT_DIR$/game-server/doc/服务器说明" />
         <option value="$PROJECT_DIR$/game-server/app/servers/gate/handler/gateHandler.js" />
-        <option value="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
         <option value="$PROJECT_DIR$/web-server/public/js/client.js" />
         <option value="$PROJECT_DIR$/game-server/config/servers.json" />
         <option value="$PROJECT_DIR$/game-server/config/master.json" />
@@ -102,6 +135,13 @@
         <option value="$PROJECT_DIR$/web-server/package.json" />
         <option value="$PROJECT_DIR$/web-server/package-lock.json" />
         <option value="$PROJECT_DIR$/client/assets/Script/initPomelo.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/GameMain.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/util/wxTool.js" />
+        <option value="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js" />
+        <option value="$PROJECT_DIR$/game-server/app/servers/connector/loading/login.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/loadingScene.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js" />
       </list>
     </option>
   </component>
@@ -119,15 +159,13 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/client/temp/quick-scripts/__node_modules/buffer/node_modules" />
-    <handled-path value="$PROJECT_DIR$/game-server/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
-    <handled-path value="$PROJECT_DIR$/web-server/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="315" />
+    <option name="y" value="7" />
+    <option name="width" value="1486" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -162,6 +200,14 @@
             <path>
               <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
               <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="Script" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
               <item name="web-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -188,7 +234,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/wo/game/example/treasures" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -208,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.client">
+  <component name="RunManager" selected="Node.js.gameServer">
     <configuration name="client" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:7456/" />
     <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/web-server" />
     <configuration name="gameServer" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/game-server" />
@@ -221,6 +267,9 @@
       <list>
         <item itemvalue="Node.js.gameServer" />
         <item itemvalue="Node.js.app.js (1)" />
+        <item itemvalue="Node.js.app.js (1)" />
+        <item itemvalue="Node.js.gameServer" />
+        <item itemvalue="Node.js.gameServer" />
       </list>
     </recent_temporary>
   </component>
@@ -251,33 +300,40 @@
       <workItem from="1524126067508" duration="191000" />
       <workItem from="1524126285234" duration="2756000" />
       <workItem from="1524137140845" duration="5234000" />
+      <workItem from="1524241384122" duration="1281000" />
+      <workItem from="1524243089274" duration="47000" />
+      <workItem from="1524243241306" duration="9576000" />
+      <workItem from="1524288004153" duration="10352000" />
+      <workItem from="1524314538650" duration="220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35106000" />
+    <option name="totallyTimeSpent" value="56582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14488935" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14488935" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32925472" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41268075" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41268075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23359288" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23333333" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32925472" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,61 +346,11 @@
     <MESSAGE value="调试与服务器的连接" />
     <option name="LAST_COMMIT_MESSAGE" value="调试与服务器的连接" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js</url>
-          <line>20</line>
-          <properties lambdaOrdinal="-1" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="8" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/game-server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/config/servers.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" selection-start-line="1" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/remote/chatRemote.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/gate/handler/gateHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-server/public/js/client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5160">
-          <caret line="172" column="32" selection-start-line="172" selection-start-column="32" selection-end-line="172" selection-end-column="32" />
+        <state relative-caret-position="1380">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -359,9 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="29" column="41" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="41" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -411,9 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="29" column="41" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="41" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -523,21 +523,7 @@
         <state relative-caret-position="-3020" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/handler/chatHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/doc/服务器说明" />
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/remote/chatRemote.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/app/servers/gate/handler/gateHandler.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -549,9 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-264">
           <caret line="8" column="23" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -561,23 +544,6 @@
           <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/config/master.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/config/servers.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
@@ -607,44 +573,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/pomelo/protocol.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        <state relative-caret-position="1650">
+          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/Cow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1080" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/initPomelo.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15326" column="17" selection-start-line="15326" selection-start-column="17" selection-end-line="15326" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/GameMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="162" column="13" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/creator.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="89" column="11" lean-forward="true" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/util/wxTool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-server/public/js/client.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2152">
-          <caret line="163" column="17" selection-start-line="163" selection-start-column="17" selection-end-line="163" selection-end-column="17" />
+        <state relative-caret-position="7860">
+          <caret line="262" column="42" selection-start-line="262" selection-start-column="38" selection-end-line="262" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/pomelo/protocol.js">
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/loading/login.js" />
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/remote/chatRemote.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+        <state relative-caret-position="540">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="http://localhost:7456/app/engine/bin/cocos2d-js-for-preview.js">
-      <provider selected="true" editor-type-id="httpFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js">
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/handler/chatHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-258">
-          <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+        <state>
+          <caret column="14" selection-start-column="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/lib/cocosAnalytics.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/initPomelo.js">
+    <entry file="file://$PROJECT_DIR$/game-server/config/master.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/config/servers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="7" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="907">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/util/initPomelo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/loadingScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

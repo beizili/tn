@@ -92,7 +92,7 @@
     var onclose = function(event){
       pomelo.emit('close',event);
       pomelo.emit('disconnect', event);
-      cc.error('socket close: ', event);
+      //cc.error('socket close: ', event);
     };
     socket = new WebSocket(url);
     socket.binaryType = 'arraybuffer';
