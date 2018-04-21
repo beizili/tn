@@ -124,6 +124,7 @@ cc.Class({
         this.scheduleOnce(this._onTimer.bind(this), 1);
     },
     _getCow() {
+        this.node.removeChild(cow);
         let cow = cc.instantiate(this.cowPrefab);
         //cow.setPosition(cc.winSize.width,-100);
         cow.x = cc.winSize.width;
@@ -134,6 +135,7 @@ cc.Class({
         this.scheduleOnce(this._getCow.bind(this), Math.random() * 2 + 3);
     },
     _getRope() {
+        this.node.removeChild(this.rope);
         this.rope = cc.instantiate(this.ropePrefab);
         this.rope.zIndex = 0.1;
         this.node.addChild(this.rope);
@@ -145,8 +147,6 @@ cc.Class({
         this.hitCow();
         let node = this.node;
         let cowsCatchedPosition = this.cowsCatchedPosition;
-        let cowsType = this.cowsType;
-        let i = 0;
         for (let cowType of  this.cowsType) {
             let catchedCow;
             switch (cowType) {
@@ -203,10 +203,13 @@ cc.Class({
                 left = -120;
                 right = 120;
                 break;
+            case 5:
+                left = -cc.winSize.width;
+                right = cc.winSize.width;
             default:
                 break;
         }
-
+        let removeCowI = [];
         for (let cow of this.cowArray) {
 
             //精确测量值
@@ -214,6 +217,7 @@ cc.Class({
                 count++;
                 cowType = cow.getComponent("Cow").cowType;
                 cow.removeFromParent();
+                removeCowI.push(cow);
                 // this.cowArray.splice(this.cowArray.indexOf(cow),1);
                 this._setCount(1);
                 //播放音乐
@@ -225,7 +229,9 @@ cc.Class({
                 break;
             }
         }
-        this.cowArray = [];
+        for(let i of removeCowI){
+            this.cowArray.splice(this.cowArray.indexOf(i),1);
+        }
 
     },
     _setCount(count) {
