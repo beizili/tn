@@ -26,7 +26,7 @@ cc.Class({
         //随机生成牛类型
         this.cowType = Math.floor(Math.random() * 3 + 1);
         //初始化速度
-        this.speed = -(Math.random() * 200 + 100);
+        this.speed =-200;
         //播放动画
         this._playCowWalk();
 

@@ -69,7 +69,6 @@ cc.Class({
         }
     },
     onLoad() {
-        this.ropeNum = 1;
 
         this.startGame();
     },
@@ -91,7 +90,7 @@ cc.Class({
         this.timeLable.string = this.time + '';
         this.countLabel.string = this.count + '';
         this.checkOut.active = false;
-
+        this.toolIsShow = false;
 
         //开启定时器
         this._onTimer();
@@ -119,7 +118,9 @@ cc.Class({
         cow.zIndex = 1000;
         this.node.addChild(cow);
         this.cowArray.push(cow);
-        this.scheduleOnce(this._getCow.bind(this), Math.random() * 2 + 3);
+        // this.scheduleOnce(this._getCow.bind(this), Math.random() * 2 + 3);
+        this.scheduleOnce(this._getCow.bind(this), 0.7);
+
     },
     _getRope() {
         this.node.removeChild(this.rope);
@@ -216,8 +217,8 @@ cc.Class({
                 break;
             }
         }
-        for(let i of removeCowI){
-            this.cowArray.splice(this.cowArray.indexOf(i),1);
+        for(var i = removeCowI.length-1;i >= 0; i--){
+            this.cowArray.splice(i,1);
         }
 
     },

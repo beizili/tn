@@ -4,25 +4,15 @@
     <list default="true" id="82d5dfac-e21f-421b-bf55-e8958f9735ee" name="Default" comment="调试与服务器的连接">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Anim/loading.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/loading.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope3.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope3.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope4.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope4.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope5.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope5.anim.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Scene/loadingScene.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Scene/loadingScene.fire.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/Cow.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/Cow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/GameMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/GameMain.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Script/data/global.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/data/global.js.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Script/loadingScene.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/loadingScene.js.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Script/util/wxTool.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/util/wxTool.js.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Texture/loading.plist.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/loading.plist.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Texture/loading.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/loading.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefive1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefive1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefive2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefive2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefour1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefour1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefour2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefour2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropethree1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropethree1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropethree2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropethree2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropetwo1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropetwo1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropetwo2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropetwo2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/settings/builder.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/settings/builder.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,17 +29,17 @@
       <file leaf-file-name="GameMain.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/assets/Script/GameMain.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-420">
-              <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+            <state relative-caret-position="206">
+              <caret line="117" column="26" lean-forward="true" selection-start-line="117" selection-start-column="26" selection-end-line="117" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tool.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/assets/Script/tool.js">
+      <file leaf-file-name="Cow.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/assets/Script/Cow.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="-115">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -70,6 +60,9 @@
       <find>chatofpomelo</find>
       <find>chatRemote</find>
       <find>toolIsShow</find>
+      <find>startga</find>
+      <find>speed</find>
+      <find>getc</find>
     </findStrings>
     <replaceStrings>
       <replace>taoniu</replace>
@@ -79,7 +72,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="syp" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
   </component>
@@ -96,13 +89,14 @@
         <option value="$PROJECT_DIR$/web-server/package.json" />
         <option value="$PROJECT_DIR$/web-server/package-lock.json" />
         <option value="$PROJECT_DIR$/client/assets/Script/initPomelo.js" />
-        <option value="$PROJECT_DIR$/client/assets/Script/GameMain.js" />
         <option value="$PROJECT_DIR$/client/assets/Script/util/wxTool.js" />
         <option value="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
         <option value="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js" />
         <option value="$PROJECT_DIR$/game-server/app/servers/connector/loading/login.js" />
         <option value="$PROJECT_DIR$/client/assets/Script/loadingScene.js" />
         <option value="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/Cow.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/GameMain.js" />
       </list>
     </option>
   </component>
@@ -478,19 +472,6 @@
             <path>
               <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
               <item name="tn" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tn" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="Script" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tn" type="462c0819:PsiDirectoryNode" />
               <item name="game-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -568,11 +549,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.gameServer" />
-        <item itemvalue="Node.js.app.js (1)" />
         <item itemvalue="Node.js.app.js (1)" />
         <item itemvalue="Node.js.gameServer" />
         <item itemvalue="Node.js.gameServer" />
+        <item itemvalue="Node.js.app.js (1)" />
+        <item itemvalue="Node.js.app.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -620,23 +601,23 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58270000" />
+    <option name="totallyTimeSpent" value="59859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1448203" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1448203" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005285" side_tool="true" weight="0.41183162" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005285" side_tool="true" weight="0.3993174" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947146" weight="0.3287827" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947146" weight="0.41183162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.23321956" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3993174" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947146" visible="true" weight="0.3993174" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -672,29 +653,16 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/client/assets/Script/tool.js</url>
-          <line>10</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/client/assets/Script/GameMain.js</url>
-          <line>58</line>
+          <line>219</line>
           <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/game-server/config/servers.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="92" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/remote/chatRemote.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -879,11 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/Cow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1080" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/assets/Script/initPomelo.js" />
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -960,23 +923,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="66" column="36" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+        <state relative-caret-position="1026">
+          <caret line="60" column="31" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-server/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        <state relative-caret-position="171">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -989,8 +949,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/assets/Script/rope.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        <state relative-caret-position="361">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1001,20 +961,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/tool.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="http://localhost:7456/app/engine/bin/cocos2d-js-for-preview.js">
       <provider selected="true" editor-type-id="httpFileEditor" />
     </entry>
+    <entry file="http://localhost:7456/preview-scripts/assets/Script/tool.js">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/tool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/Cow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/assets/Script/GameMain.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        <state relative-caret-position="206">
+          <caret line="117" column="26" lean-forward="true" selection-start-line="117" selection-start-column="26" selection-end-line="117" selection-end-column="26" />
         </state>
       </provider>
     </entry>
