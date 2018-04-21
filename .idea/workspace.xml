@@ -3,63 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="82d5dfac-e21f-421b-bf55-e8958f9735ee" name="Default" comment="调试与服务器的连接">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/cow_run_01.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/cow_run_01.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/cow_run_02.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/cow_run_02.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/cow_run_03.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/cow_run_03.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope1.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope1.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope2.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope2.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.fnt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.fnt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/cow.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/cow.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/rope.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/rope.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow1.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow1.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow2.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow2.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow3.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow3.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/tools.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/tools.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Scene/home.fire" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Scene/home.fire" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Scene/home.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Scene/home.fire.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/Cow.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/Cow.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/GameMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/GameMain.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/GameMain.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/GameMain.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/initPomelo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/initPomelo.js.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/emitter.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/emitter.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/protobuf.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/protobuf.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/protocol.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/protocol.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/rope.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/rope.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/tool.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/tool.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/281-150H91133590.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/281-150H91133590.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/add.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/add.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/again.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/again.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/bg_index.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/bg_index.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/button_BG.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/button_BG.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/button_off.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/button_off.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/button_on.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/button_on.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/catchedCowList.pac.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/catchedCowList.pac.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/count.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/count.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/cowlist.plist.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/cowlist.plist.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/cowlist.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/cowlist.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/jifenban.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/jifenban.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/rope - 副本.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/rope - 副本.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/rope.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/rope.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/rope2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/rope2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCount.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCount.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCow1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCow1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCow2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCow2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCow3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCow3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/loading.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/loading.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope3.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope3.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope4.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope4.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope5.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope5.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Scene/loadingScene.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Scene/loadingScene.fire.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/data/global.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/data/global.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/loadingScene.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/loadingScene.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/util/wxTool.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/util/wxTool.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/loading.plist.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/loading.plist.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/loading.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/loading.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefive1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefive1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefive2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefive2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefour1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefour1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefour2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefour2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropethree1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropethree1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropethree2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropethree2.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropetwo1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropetwo1.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropetwo2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropetwo2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/time.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/time.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/图片1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/图片1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/resources/particle/yanhua_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/resources/particle/yanhua_02.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/settings/builder.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/settings/builder.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/settings/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/settings/project.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -72,24 +35,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="loadingScene.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/assets/Script/loadingScene.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GameMain.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/assets/Script/GameMain.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-420">
+              <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initPomelo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/assets/Script/util/initPomelo.js">
+      <file leaf-file-name="tool.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/assets/Script/tool.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+            <state relative-caret-position="190">
+              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -109,6 +69,7 @@
       <find>removeUser</find>
       <find>chatofpomelo</find>
       <find>chatRemote</find>
+      <find>toolIsShow</find>
     </findStrings>
     <replaceStrings>
       <replace>taoniu</replace>
@@ -158,14 +119,344 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/client/temp/quick-scripts/__node_modules/buffer/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/game-server/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/addressparser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/agent-base/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/agent-base/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ajv/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/amqplib/examples/tutorials/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/amqplib/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/amqplib/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ast-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/axios/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/base64id/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bearcat-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bitsyntax/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bl/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bl/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bl/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bops/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/buffer-more-ints/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/buildmail/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/circular-json/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cliff/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/crc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cycle/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dashdash/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/data-uri-to-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/date-format/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/deep-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/degenerator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dequeue/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/double-ended-queue/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/duplexify/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/duplexify/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/duplexify/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/duplexify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/engine.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/engine.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/engine.io-client/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/engine.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/engine.io/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/engine.io/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/escodegen/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/eyes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fast-levenshtein/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/file-uri-to-path/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ftp/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ftp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/generate-function/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/generate-object-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-uri/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-uri/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-uri/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-uri/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-uri/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/getpass/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/har-validator/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-binary/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hipchat-notifier/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http-proxy-agent/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/httpntlm/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/httpreq/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/https-proxy-agent/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/https-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inflection/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-my-ip-valid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-my-json-valid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsonpointer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsprim/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/levn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/libbase64/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/libmime/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/libmime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/libqp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/log4js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/loggly/node_modules/bl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/loggly/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/loggly/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/loggly/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/loggly/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/loggly/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mailcomposer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mailgun-js/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mailgun-js/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mailgun-js/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mailgun-js/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mailgun-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mqtt-connection/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mqtt-packet/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mqtt/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/netmask/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-bignumber/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-uuid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nodemailer-direct-transport/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nodemailer-fetch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nodemailer-shared/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nodemailer-smtp-pool/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nodemailer-smtp-transport/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nodemailer-wellknown/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nodemailer/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nodemailer/node_modules/socks/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nodemailer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-component/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/optionator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/options/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pac-proxy-agent/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pac-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pac-resolver/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parsejson/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-proxy/node_modules/inflection/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-proxy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pkginfo/examples/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pkginfo/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-admin/node_modules/pomelo-scheduler/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-admin/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-loader/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-logger/node_modules/log4js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-logger/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-logger/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-monitor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-protobuf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-protocol/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-rpc/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-rpc/node_modules/node-uuid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-rpc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-scheduler/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-scheduler/node_modules/log4js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-scheduler/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo-scheduler/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo/template/game-server/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pomelo/template/web-server/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/prelude-ls/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/proxy-agent/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/q/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/redis-commands/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/redis-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/redis/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/cryptiles/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requestretry/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/seq-queue/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/slack-node/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/smart-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/smtp-connection/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io-adapter/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io-adapter/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io-adapter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io-client/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io-parser/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socket.io/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socks-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socks/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/socks/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sshpk/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/stack-trace/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/stream-pkg/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/stream-shift/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/streamroller/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/streamroller/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/streamroller/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/streamroller/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/streamroller/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/through2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/through2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/through2/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/thunkify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/timespan/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/to-array/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/to-utf8/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tsscmp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/type-check/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/underscore/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/verror/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/when/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/winston/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/winston/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wtf-8/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/xregexp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/web-server/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="315" />
-    <option name="y" value="7" />
-    <option name="width" value="1486" />
-    <option name="height" value="1039" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -177,57 +468,69 @@
           <expand>
             <path>
               <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="tn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="tn" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="tn" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="Script" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="tn" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="Script" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
-              <item name="web-server" type="462c0819:PsiDirectoryNode" />
+              <item name="tn" type="462c0819:PsiDirectoryNode" />
+              <item name="game-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
-              <item name="web-server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="tn" type="462c0819:PsiDirectoryNode" />
+              <item name="game-server" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="tn" type="462c0819:PsiDirectoryNode" />
+              <item name="game-server" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tn" type="462c0819:PsiDirectoryNode" />
               <item name="web-server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="tn" type="cbb8eebc:String" user="tn" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="tn" type="cbb8eebc:String" user="tn" />
+              <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,7 +557,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.gameServer">
+  <component name="RunManager" selected="JavaScript Debug.client">
     <configuration name="client" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:7456/" />
     <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/web-server" />
     <configuration name="gameServer" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/game-server" />
@@ -306,34 +609,53 @@
       <workItem from="1524288004153" duration="10352000" />
       <workItem from="1524314538650" duration="220000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次merge">
+      <created>1524316057786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524316057786</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56582000" />
+    <option name="totallyTimeSpent" value="58270000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14488935" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1448203" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41268075" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005285" side_tool="true" weight="0.41183162" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947146" weight="0.3287827" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947146" weight="0.41183162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23333333" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23321956" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3993174" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14488935" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41268075" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23333333" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32925472" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,35 +668,26 @@
     <MESSAGE value="调试与服务器的连接" />
     <option name="LAST_COMMIT_MESSAGE" value="调试与服务器的连接" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/assets/Script/tool.js</url>
+          <line>10</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/assets/Script/GameMain.js</url>
+          <line>58</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="46" column="32" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/config/master.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/config/master.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/config/servers.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -531,13 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -549,13 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="1" column="49" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -590,13 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="15326" column="17" selection-start-line="15326" selection-start-column="17" selection-end-line="15326" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/GameMain.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="162" column="13" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -657,13 +949,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="907">
-          <caret line="46" column="32" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/assets/Script/util/initPomelo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -673,11 +958,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/assets/Script/loadingScene.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="195">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="66" column="36" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/rope.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14858">
+          <caret line="782" column="72" selection-start-line="782" selection-start-column="72" selection-end-line="782" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/tool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="http://localhost:7456/app/engine/bin/cocos2d-js-for-preview.js">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/GameMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
         </state>
       </provider>
     </entry>
