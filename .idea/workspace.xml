@@ -2,17 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82d5dfac-e21f-421b-bf55-e8958f9735ee" name="Default" comment="调试与服务器的连接">
+      <change afterPath="$PROJECT_DIR$/game-server/app/data/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-server/app/util/WXBizDataCrypt.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/cow_run_01.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/cow_run_01.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/cow_run_02.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/cow_run_02.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/cow_run_03.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/cow_run_03.anim.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Anim/loading.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/loading.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope1.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope1.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope2.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope2.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope3.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope3.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope4.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope4.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope5.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope5.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.fnt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.fnt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/cow.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/cow.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/rope.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/rope.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow1.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow1.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow2.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow2.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow3.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow3.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/tools.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/tools.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Scene/home.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Scene/home.fire.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Scene/loadingScene.fire" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Scene/loadingScene.fire" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Scene/loadingScene.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Scene/loadingScene.fire.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/Cow.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/Cow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/GameMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/GameMain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/Cow.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/Cow.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/GameMain.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/GameMain.js.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Script/data/global.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/data/global.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/loadingScene.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/loadingScene.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Script/loadingScene.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/loadingScene.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/emitter.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/emitter.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/protobuf.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/protobuf.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/protocol.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/protocol.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/rope.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/rope.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/tool.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/tool.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/util/myPomelo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/util/wxTool.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/util/wxTool.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Script/util/wxTool.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/util/wxTool.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/281-150H91133590.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/281-150H91133590.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/add.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/add.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/again.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/again.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/bg_index.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/bg_index.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/button_BG.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/button_BG.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/button_off.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/button_off.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/button_on.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/button_on.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/catchedCowList.pac.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/catchedCowList.pac.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/count.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/count.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/cowlist.plist.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/cowlist.plist.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/cowlist.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/cowlist.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/jifenban.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/jifenban.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Texture/loading.plist.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/loading.plist.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Texture/loading.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/loading.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/rope - 副本.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/rope - 副本.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/rope.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/rope.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/rope2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/rope2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCount.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCount.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCow1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCow1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCow2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCow2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCow3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCow3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefive1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefive1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefive2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefive2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefour1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefour1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefour2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefour2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropethree1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropethree1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropethree2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropethree2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropetwo1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropetwo1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropetwo2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropetwo2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/time.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/time.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Texture/图片1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/图片1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/resources/particle/yanhua_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/resources/particle/yanhua_02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/settings/builder.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/settings/builder.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/settings/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/settings/project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,20 +91,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GameMain.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/assets/Script/GameMain.js">
+      <file leaf-file-name="entryHandler.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="117" column="26" lean-forward="true" selection-start-line="117" selection-start-column="26" selection-end-line="117" selection-end-column="26" />
+            <state relative-caret-position="30">
+              <caret line="1" column="58" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cow.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/assets/Script/Cow.js">
+      <file leaf-file-name="WXBizDataCrypt.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game-server/app/util/WXBizDataCrypt.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-115">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+            <state relative-caret-position="330">
+              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/temp/quick-scripts/__node_modules/buffer/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="148" selection-start-line="148" selection-end-line="148" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myPomelo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/assets/Script/util/myPomelo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chatHandler.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/handler/chatHandler.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game-server/app/data/global.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -63,6 +164,7 @@
       <find>startga</find>
       <find>speed</find>
       <find>getc</find>
+      <find>app</find>
     </findStrings>
     <replaceStrings>
       <replace>taoniu</replace>
@@ -89,14 +191,21 @@
         <option value="$PROJECT_DIR$/web-server/package.json" />
         <option value="$PROJECT_DIR$/web-server/package-lock.json" />
         <option value="$PROJECT_DIR$/client/assets/Script/initPomelo.js" />
-        <option value="$PROJECT_DIR$/client/assets/Script/util/wxTool.js" />
-        <option value="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
         <option value="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js" />
         <option value="$PROJECT_DIR$/game-server/app/servers/connector/loading/login.js" />
-        <option value="$PROJECT_DIR$/client/assets/Script/loadingScene.js" />
-        <option value="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js" />
         <option value="$PROJECT_DIR$/client/assets/Script/Cow.js" />
         <option value="$PROJECT_DIR$/client/assets/Script/GameMain.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/util/myPomelo.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/loadingScene.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/util/wxTool.js" />
+        <option value="$PROJECT_DIR$/game-server/modules/user.js" />
+        <option value="$PROJECT_DIR$/game-server/app/util/wxTool.js" />
+        <option value="$PROJECT_DIR$/game-server/app/modules/user.js" />
+        <option value="$PROJECT_DIR$/game-server/app/data/global.js" />
+        <option value="$PROJECT_DIR$/game-server/app/util/RdWXBizDataCrypt.js" />
+        <option value="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
+        <option value="$PROJECT_DIR$/game-server/app/util/WXBizDataCrypt.js" />
       </list>
     </option>
   </component>
@@ -113,6 +222,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/client/temp/quick-scripts/__node_modules/buffer/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
@@ -457,45 +567,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tn" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tn" type="462c0819:PsiDirectoryNode" />
-              <item name="game-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tn" type="462c0819:PsiDirectoryNode" />
-              <item name="game-server" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tn" type="462c0819:PsiDirectoryNode" />
-              <item name="game-server" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="servers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tn" type="462c0819:PsiDirectoryNode" />
-              <item name="web-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -512,19 +583,129 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="Script" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="Script" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="Script" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="game-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="game-server" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="game-server" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="game-server" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="game-server" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="game-server" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="game-server" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+              <item name="connector" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="game-server" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/wo/game/example/treasures" />
+    <property name="last_opened_file_path" value="D:/wo/game/example/lordofpomelo" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path" value="F:/Program Files (x86)/node/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\炎平\Desktop\tn\taoniu\game-server\app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\炎平\Desktop\tn\taoniu\game-server\app\util" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -538,7 +719,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.client">
+  <component name="RunManager" selected="Node.js.gameServer">
     <configuration name="client" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:7456/" />
     <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/web-server" />
     <configuration name="gameServer" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/game-server" />
@@ -549,8 +730,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.app.js (1)" />
         <item itemvalue="Node.js.gameServer" />
+        <item itemvalue="Node.js.app.js (1)" />
         <item itemvalue="Node.js.gameServer" />
         <item itemvalue="Node.js.app.js (1)" />
         <item itemvalue="Node.js.app.js (1)" />
@@ -589,6 +770,9 @@
       <workItem from="1524243241306" duration="9576000" />
       <workItem from="1524288004153" duration="10352000" />
       <workItem from="1524314538650" duration="220000" />
+      <workItem from="1524356880562" duration="8752000" />
+      <workItem from="1524367479182" duration="138000" />
+      <workItem from="1524368733875" duration="7375000" />
     </task>
     <task id="LOCAL-00001" summary="第一次merge">
       <created>1524316057786</created>
@@ -601,42 +785,31 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59859000" />
+    <option name="totallyTimeSpent" value="76124000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1448203" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14488935" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005285" side_tool="true" weight="0.3993174" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947146" weight="0.3287827" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947146" weight="0.41183162" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41268075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23321956" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.51167965" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947146" visible="true" weight="0.3993174" />
-      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3303671" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14488935" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41268075" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23333333" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32925472" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32925472" />
-      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -655,77 +828,19 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/client/assets/Script/GameMain.js</url>
           <line>219</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/temp/quick-scripts/__node_modules/buffer/index.js</url>
+          <line>148</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/remote/chatRemote.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/gate/handler/gateHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-server/public/js/client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5160">
-          <caret line="172" column="41" selection-start-line="172" selection-start-column="41" selection-end-line="172" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/config/master.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/gate/handler/gateHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="7" selection-start-line="20" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-server/public/js/client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4860">
-          <caret line="162" column="36" selection-start-line="162" selection-start-column="36" selection-end-line="162" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/config/servers.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -805,13 +920,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/doc/服务器说明" />
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/gate/handler/gateHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -869,13 +977,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/util/wxTool.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-server/public/js/client.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7860">
@@ -891,13 +992,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/handler/chatHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/config/master.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -909,27 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="7" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/util/initPomelo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/loadingScene.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="60" column="31" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -961,12 +1034,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="http://localhost:7456/app/engine/bin/cocos2d-js-for-preview.js">
-      <provider selected="true" editor-type-id="httpFileEditor" />
-    </entry>
-    <entry file="http://localhost:7456/preview-scripts/assets/Script/tool.js">
-      <provider selected="true" editor-type-id="httpFileEditor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/assets/Script/tool.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -976,15 +1043,126 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/assets/Script/Cow.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
+        <state relative-caret-position="540">
           <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/library/imports/96/96fc6dd6-752d-4106-a360-5874cfe16a37.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/gate/handler/gateHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/util/wxTool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/assets/Script/GameMain.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="117" column="26" lean-forward="true" selection-start-line="117" selection-start-column="26" selection-end-line="117" selection-end-column="26" />
+        <state relative-caret-position="146">
+          <caret line="115" column="33" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/loadingScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/modules/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/util/myPomelo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/data/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/handler/chatHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/data/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/temp/quick-scripts/__node_modules/buffer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/util/cryptojs/lib/AES.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/util/cryptojs/cryptojs.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/util/RdWXBizDataCrypt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/util/cryptojs/lib/Crypto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3870">
+          <caret line="129" column="15" selection-start-line="129" selection-start-column="15" selection-end-line="129" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="58" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/util/WXBizDataCrypt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>

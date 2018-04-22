@@ -25,13 +25,9 @@
   "title": "taoniu",
   "webOrientation": "auto",
   "wechatgame": {
-    "appid": "wx6ac3f5090a6b99c5",
+    "appid": "wxa9bea3f05d9b88ed",
     "orientation": "portrait"
   },
   "xxteaKey": "d1da986f-63f2-43",
-  "zipCompressJs": true,
-  "qqplay": {
-    "orientation": "portrait"
-  },
-  "fb-instant-games": {}
+  "zipCompressJs": true
 }
