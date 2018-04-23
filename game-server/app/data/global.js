@@ -1,6 +1,4 @@
-function global() {
+module.exports = {
+    appId:"wxd837381cc1749afd",
+    appSecret:"366068414bddfb03acca7da44f88ee85",
 }
-global.appId="wxa9bea3f05d9b88ed";
-global.sessionKey="36e7f8c28dfd9b10a0eb71d811b070ba"
-
-module.exports = global

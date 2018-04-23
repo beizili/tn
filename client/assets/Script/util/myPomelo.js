@@ -27,6 +27,9 @@ const myPomelo = function () {
         });
     };
 
+    that.test=function () {
+        console.log("日志：global="+global.uid);
+    }
 
     pomelo.on('disconnect', function (reason) {
         console.log("日志：断开pomelo连接");

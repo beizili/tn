@@ -1,5 +1,4 @@
-var global = require('../../../data/global');
-var WXBizDataCrypt = require('../../../util/WXBizDataCrypt');
+var Global = require('../../../data/global');
 
 module.exports = function (app) {
     return new Handler(app);
@@ -55,19 +54,37 @@ handler.enter = function (msg, session, next) {
 };
 
 handler.login = function (msg, session, cb) {
-    var crypto;
-    try {
-        crypto = require('crypto');
-    } catch (err) {
-        console.log('crypto support is disabled!');
-    }
+    console.log("日志：接收到的客户端消息" + JSON.stringify(msg));
+    var request = require('request');
 
-    //console.log("日志：接收到的客户端消息"+JSON.stringify(msg));
+    var url = "https://api.weixin.qq.com/sns/jscode2session?appid=" + Global.appId +
+        "&secret=" + Global.appSecret +
+        "&js_code=" + msg.code + "&" +
+        "grant_type=authorization_code"
 
-    var pc = new WXBizDataCrypt(global.appId, global.sessionKey);
-    var data = pc.decryptData(msg.encryptedData, msg.iv);
-    console.log("日志：解密后的数据" + JSON.stringify(data));
-    cb(null, {user: "syp"});
+    //console.log("url:" + url);
+
+    request.get(url, function (error, response, body) {
+            console.log("日志：error" + JSON.stringify(error));
+            console.log("日志：response" + JSON.stringify(response));
+            console.log("日志：body" + body);
+            body = JSON.parse(body);
+            var openid = body.openid;
+            var sessionKey = body.session_key;
+
+
+            session.bind(body.openid);
+            session.set("sessionkey", sessionKey);
+            session.push('sessionkey', function (err) {
+                if (err) {
+                    console.error('set sessionkey for session service failed! error is : %j', err.stack);
+                }
+            });
+            cb(null);
+        }
+    );
+    //-----------------------------------------------------------------------------------
+
 };
 
 

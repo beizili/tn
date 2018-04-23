@@ -2,82 +2,387 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82d5dfac-e21f-421b-bf55-e8958f9735ee" name="Default" comment="调试与服务器的连接">
-      <change afterPath="$PROJECT_DIR$/game-server/app/data/global.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-server/app/util/WXBizDataCrypt.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/cow_run_01.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/cow_run_01.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/cow_run_02.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/cow_run_02.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/cow_run_03.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/cow_run_03.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/loading.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/loading.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope1.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope1.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope2.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope2.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope3.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope3.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope4.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope4.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Anim/rope5.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Anim/rope5.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.fnt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.fnt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Bmpfont/actiontime.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/cow.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/cow.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/rope.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/rope.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow1.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow1.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow2.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow2.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow3.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/ropeCow3.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Prefabs/tools.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Prefabs/tools.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Scene/home.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Scene/home.fire.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Scene/loadingScene.fire" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Scene/loadingScene.fire" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Scene/loadingScene.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Scene/loadingScene.fire.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/Cow.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/Cow.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/GameMain.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/GameMain.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/data/global.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/data/global.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/data/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/data/global.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Script/loadingScene.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/loadingScene.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/loadingScene.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/loadingScene.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/emitter.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/emitter.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/pomelo-client.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/protobuf.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/protobuf.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/pomelo/protocol.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/pomelo/protocol.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/rope.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/rope.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/tool.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/tool.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/util/myPomelo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/Script/util/myPomelo.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/util/myPomelo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/assets/Script/util/wxTool.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/util/wxTool.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Script/util/wxTool.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Script/util/wxTool.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/281-150H91133590.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/281-150H91133590.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/add.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/add.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/again.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/again.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/bg_index.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/bg_index.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/button_BG.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/button_BG.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/button_off.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/button_off.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/button_on.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/button_on.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/catchedCowList.pac.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/catchedCowList.pac.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/count.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/count.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/cowlist.plist.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/cowlist.plist.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/cowlist.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/cowlist.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/jifenban.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/jifenban.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/loading.plist.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/loading.plist.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/loading.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/loading.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/rope - 副本.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/rope - 副本.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/rope.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/rope.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/rope2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/rope2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCount.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCount.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCow1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCow1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCow2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCow2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropeCow3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropeCow3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefive1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefive1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefive2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefive2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefour1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefour1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropefour2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropefour2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropethree1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropethree1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropethree2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropethree2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropetwo1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropetwo1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/ropetwo2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/ropetwo2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/time.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/time.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/Texture/图片1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/Texture/图片1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/assets/resources/particle/yanhua_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/resources/particle/yanhua_02.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/settings/builder.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/settings/builder.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/settings/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/settings/project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-server/app/data/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/game-server/app/data/global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-server/app/servers/chat/handler/chatHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/game-server/app/servers/chat/handler/chatHandler.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-server/app/util/WXBizDataCrypt.js" beforeDir="false" afterPath="$PROJECT_DIR$/game-server/app/util/WXBizDataCrypt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/array-flatten/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/array-flatten/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/array-flatten/array-flatten.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/array-flatten/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/lib/read.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/lib/types/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/lib/types/raw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/lib/types/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/lib/types/urlencoded.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/.coveralls.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/src/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/src/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/src/inspector-log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/src/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/dist/qs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/lib/formats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/lib/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/test/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/test/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/test/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/test/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/content-disposition/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/content-disposition/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/content-disposition/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/content-disposition/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/content-disposition/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/content-type/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/content-type/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/content-type/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/content-type/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/content-type/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cookie-signature/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cookie-signature/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cookie-signature/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cookie-signature/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cookie-signature/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/destroy/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/destroy/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/destroy/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/destroy/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ee-first/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ee-first/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ee-first/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ee-first/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/encodeurl/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/encodeurl/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/encodeurl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/encodeurl/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/encodeurl/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/escape-html/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/escape-html/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/escape-html/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/escape-html/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/etag/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/etag/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/etag/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/etag/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/etag/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/lib/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/lib/express.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/lib/middleware/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/lib/middleware/query.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/lib/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/lib/response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/lib/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/lib/router/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/lib/router/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/lib/view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/.coveralls.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/src/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/src/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/src/inspector-log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/debug/src/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/depd/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/depd/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/depd/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/depd/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/depd/lib/browser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/depd/lib/compat/callsite-tostring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/depd/lib/compat/event-listener-count.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/depd/lib/compat/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/depd/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/dist/qs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/lib/formats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/lib/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/test/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/test/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/test/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/test/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/setprototypeof/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/setprototypeof/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/setprototypeof/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/setprototypeof/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/setprototypeof/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/statuses/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/statuses/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/statuses/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/statuses/codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/statuses/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/statuses/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/.coveralls.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/src/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/src/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/src/inspector-log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/src/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/statuses/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/statuses/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/statuses/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/statuses/codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/statuses/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/statuses/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/forwarded/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/forwarded/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/forwarded/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/forwarded/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/forwarded/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fresh/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fresh/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fresh/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fresh/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fresh/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/Cakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/ipaddr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/lib/ipaddr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/lib/ipaddr.js.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/src/ipaddr.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/test/ipaddr.test.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/media-typer/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/media-typer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/media-typer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/media-typer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/media-typer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/merge-descriptors/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/merge-descriptors/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/merge-descriptors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/merge-descriptors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/merge-descriptors/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/methods/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/methods/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/methods/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/methods/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/methods/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/build/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/mime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/types.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/on-finished/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/on-finished/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/on-finished/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/on-finished/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/on-finished/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parseurl/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parseurl/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parseurl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parseurl/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parseurl/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-to-regexp/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-to-regexp/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-to-regexp/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-to-regexp/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-to-regexp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/proxy-addr/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/proxy-addr/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/proxy-addr/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/proxy-addr/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/proxy-addr/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/range-parser/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/range-parser/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/range-parser/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/range-parser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/range-parser/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/aws.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/aws2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/forever.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/mimetypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/oauth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/googledoodle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/run.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/squid.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/ca/ca.cnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/ca/ca.crl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/ca/ca.crt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/ca/ca.csr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/ca/ca.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/ca/ca.srl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/ca/server.cnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/ca/server.crt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/ca/server.csr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/ca/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/ca/server.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/npm-ca.crt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/test.crt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/ssl/test.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-body.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-cookiejar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-headers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-httpModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-https-strict.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-https.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-oauth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-params.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-pipes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-pool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-proxy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-qs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-redirect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-s3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-timeout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-toJSON.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tests/test-tunnel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/tunnel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/uuid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/vendor/cookie/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/vendor/cookie/jar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/.coveralls.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/src/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/src/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/src/inspector-log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/debug/src/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/lib/browser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/lib/compat/callsite-tostring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/lib/compat/event-listener-count.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/lib/compat/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/depd/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/statuses/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/statuses/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/statuses/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/statuses/codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/statuses/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/statuses/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serve-static/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serve-static/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serve-static/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serve-static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serve-static/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-is/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-is/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-is/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-is/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-is/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/utils-merge/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/utils-merge/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/utils-merge/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/utils-merge/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/utils-merge/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vary/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vary/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vary/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vary/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vary/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -94,35 +399,65 @@
       <file leaf-file-name="entryHandler.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="58" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="58" />
+            <state relative-caret-position="248">
+              <caret line="77" selection-start-line="77" selection-end-line="81" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WXBizDataCrypt.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/pomelo/lib/server/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="374" column="24" selection-start-line="374" selection-start-column="24" selection-end-line="374" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filterService.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/pomelo/lib/common/service/filterService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WXBizDataCrypt.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game-server/app/util/WXBizDataCrypt.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="666">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/temp/quick-scripts/__node_modules/buffer/index.js">
+      <file leaf-file-name="wxTool.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/assets/Script/util/wxTool.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="148" selection-start-line="148" selection-end-line="148" />
+            <state relative-caret-position="180">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myPomelo.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="myPomelo.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/assets/Script/util/myPomelo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="180">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loadingScene.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/assets/Script/loadingScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,17 +465,8 @@
       <file leaf-file-name="chatHandler.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/handler/chatHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="global.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-server/app/data/global.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="85">
+              <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -165,10 +491,21 @@
       <find>speed</find>
       <find>getc</find>
       <find>app</find>
+      <find>mqttClient</find>
+      <find>createDecipheriv</find>
+      <find>crypto</find>
+      <find>DEFAULT_ENCODING</find>
+      <find>content</find>
+      <find>querystring</find>
+      <find>Global</find>
     </findStrings>
     <replaceStrings>
       <replace>taoniu</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\炎平\Desktop\tn\taoniu\node_modules\mqtt</dir>
+      <dir>C:\Users\炎平\Desktop\tn\taoniu</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -183,7 +520,6 @@
       <list>
         <option value="$PROJECT_DIR$/game-server/doc/服务器说明" />
         <option value="$PROJECT_DIR$/game-server/app/servers/gate/handler/gateHandler.js" />
-        <option value="$PROJECT_DIR$/web-server/public/js/client.js" />
         <option value="$PROJECT_DIR$/game-server/config/servers.json" />
         <option value="$PROJECT_DIR$/game-server/config/master.json" />
         <option value="$PROJECT_DIR$/game-server/app.js" />
@@ -196,16 +532,19 @@
         <option value="$PROJECT_DIR$/client/assets/Script/Cow.js" />
         <option value="$PROJECT_DIR$/client/assets/Script/GameMain.js" />
         <option value="$PROJECT_DIR$/client/assets/Script/util/initPomelo.js" />
-        <option value="$PROJECT_DIR$/client/assets/Script/util/myPomelo.js" />
-        <option value="$PROJECT_DIR$/client/assets/Script/loadingScene.js" />
-        <option value="$PROJECT_DIR$/client/assets/Script/util/wxTool.js" />
         <option value="$PROJECT_DIR$/game-server/modules/user.js" />
         <option value="$PROJECT_DIR$/game-server/app/util/wxTool.js" />
         <option value="$PROJECT_DIR$/game-server/app/modules/user.js" />
-        <option value="$PROJECT_DIR$/game-server/app/data/global.js" />
         <option value="$PROJECT_DIR$/game-server/app/util/RdWXBizDataCrypt.js" />
-        <option value="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
+        <option value="$PROJECT_DIR$/web-server/public/js/client.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/data/global.js" />
         <option value="$PROJECT_DIR$/game-server/app/util/WXBizDataCrypt.js" />
+        <option value="$PROJECT_DIR$/game-server/app/data/global.js" />
+        <option value="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
+        <option value="$PROJECT_DIR$/game-server/app/servers/chat/handler/chatHandler.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/util/wxTool.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/loadingScene.js" />
+        <option value="$PROJECT_DIR$/client/assets/Script/util/myPomelo.js" />
       </list>
     </option>
   </component>
@@ -557,32 +896,15 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-7" />
+    <option name="width" value="1466" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="tn" type="cbb8eebc:String" user="tn" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="tn" type="cbb8eebc:String" user="tn" />
-              <item name=".idea" type="cbb8eebc:String" user=".idea" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -640,13 +962,6 @@
               <item name="taoniu" type="462c0819:PsiDirectoryNode" />
               <item name="game-server" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
-              <item name="game-server" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="servers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -672,14 +987,59 @@
               <item name="game-server" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="servers" type="462c0819:PsiDirectoryNode" />
-              <item name="connector" type="462c0819:PsiDirectoryNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="remote" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
               <item name="taoniu" type="462c0819:PsiDirectoryNode" />
               <item name="game-server" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+              <item name="gate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="game-server" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+              <item name="gate" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoniu" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="tn" type="cbb8eebc:String" user="tn" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="tn" type="cbb8eebc:String" user="tn" />
+              <item name=".idea" type="cbb8eebc:String" user=".idea" />
             </path>
           </expand>
           <select />
@@ -773,6 +1133,9 @@
       <workItem from="1524356880562" duration="8752000" />
       <workItem from="1524367479182" duration="138000" />
       <workItem from="1524368733875" duration="7375000" />
+      <workItem from="1524380276902" duration="2841000" />
+      <workItem from="1524384005609" duration="19434000" />
+      <workItem from="1524449777572" duration="20196000" />
     </task>
     <task id="LOCAL-00001" summary="第一次merge">
       <created>1524316057786</created>
@@ -785,7 +1148,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76124000" />
+    <option name="totallyTimeSpent" value="118595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -800,7 +1163,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.51167965" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3303671" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.41268075" />
       <window_info anchor="bottom" id="TypeScript" order="9" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -811,6 +1174,27 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14488935" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41268075" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.41268075" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.51167965" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32925472" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32925472" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -833,42 +1217,13 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/client/temp/quick-scripts/__node_modules/buffer/index.js</url>
           <line>148</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="39" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -977,21 +1332,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-server/public/js/client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7860">
-          <caret line="262" column="42" selection-start-line="262" selection-start-column="38" selection-end-line="262" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/loading/login.js" />
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/remote/chatRemote.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/config/master.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1010,13 +1351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -1055,17 +1389,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/gate/handler/gateHandler.js">
+    <entry file="file://$PROJECT_DIR$/game-server/app/modules/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="11" />
+        <state relative-caret-position="360">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/util/wxTool.js">
+    <entry file="file://$PROJECT_DIR$/client/temp/quick-scripts/__node_modules/buffer/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="4440">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/util/RdWXBizDataCrypt.js" />
+    <entry file="file://$PROJECT_DIR$/game-server/app/util/cryptojs/lib/Crypto.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/mqtt/lib/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10020">
+          <caret line="334" selection-start-line="334" selection-end-line="334" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="986" lean-forward="true" selection-start-line="986" selection-end-line="986" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
@@ -1076,93 +1433,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/loadingScene.js">
+    <entry file="file://$PROJECT_DIR$/web-server/public/js/client.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="158">
+          <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/modules/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
+    <entry file="http://localhost:7456/preview-scripts/__node_modules/buffer/index.js">
+      <provider selected="true" editor-type-id="httpFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/assets/Script/util/myPomelo.js">
+    <entry file="file://$PROJECT_DIR$/client/library/imports/29/294c2480-bbe0-470b-85eb-9dc1b7f82455.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="-104">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/assets/Script/data/global.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/handler/chatHandler.js">
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/remote/chatRemote.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        <state relative-caret-position="259">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/data/global.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/pomelo/lib/common/service/handlerService.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="439">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/temp/quick-scripts/__node_modules/buffer/index.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/pomelo/lib/server/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        <state relative-caret-position="415">
+          <caret line="374" column="24" selection-start-line="374" selection-start-column="24" selection-end-line="374" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/util/cryptojs/lib/AES.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/util/cryptojs/cryptojs.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/util/RdWXBizDataCrypt.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/pomelo/lib/common/service/filterService.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/util/cryptojs/lib/Crypto.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3870">
-          <caret line="129" column="15" selection-start-line="129" selection-start-column="15" selection-end-line="129" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="58" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="58" />
+        <state relative-caret-position="158">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/app/util/WXBizDataCrypt.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="666">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/data/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/gate/handler/gateHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="77" selection-start-line="77" selection-end-line="81" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/chat/handler/chatHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/util/wxTool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/loadingScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/Script/util/myPomelo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
